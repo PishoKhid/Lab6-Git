@@ -78,6 +78,7 @@ int main()
         printf("Ціна 2го товару: %d\n", b);
         printf("Нова ціна 2го товару: %.2f\n", newB);
     }
+    // Commit з Visual Studio для максимального балу
 }
 
 
