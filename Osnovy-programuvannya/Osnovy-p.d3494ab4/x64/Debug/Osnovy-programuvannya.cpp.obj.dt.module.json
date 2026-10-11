@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Osnovy-p.d3494ab4\\x64\\Debug\\Osnovy-programuvannya.obj",
+            "outputs": [
+                "Osnovy-p.d3494ab4\\x64\\Debug\\Osnovy-programuvannya.cpp.obj.dt.module.json",
+                "Osnovy-p.d3494ab4\\x64\\Debug\\Osnovy-programuvannya.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
