@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    // Змінено для лабораторної роботи №6
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
 
